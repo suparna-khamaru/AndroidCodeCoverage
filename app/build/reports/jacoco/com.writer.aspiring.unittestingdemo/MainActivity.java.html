@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>MainActivity.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">app</a> &gt; <a href="index.source.html" class="el_package">com.writer.aspiring.unittestingdemo</a> &gt; <span class="el_source">MainActivity.java</span></div><h1>MainActivity.java</h1><pre class="source lang-java linenums">package com.writer.aspiring.unittestingdemo;
+
+import android.os.Bundle;
+import android.os.Environment;
+import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
+import android.util.Log;
+import android.view.View;
+import android.widget.EditText;
+import android.widget.LinearLayout;
+import android.widget.TextView;
+import android.widget.Toast;
+
+import java.io.File;
+import java.lang.reflect.Method;
+
+<span class="fc" id="L17">public class MainActivity extends AppCompatActivity {</span>
+    LinearLayout signIn;
+    EditText userName,password;
+    TextView result;
+
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+<span class="fc" id="L25">        super.onCreate(savedInstanceState);</span>
+<span class="fc" id="L26">        setContentView(R.layout.activity_main);</span>
+<span class="fc" id="L27">        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);</span>
+<span class="fc" id="L28">        setSupportActionBar(toolbar);</span>
+
+<span class="fc" id="L30">        signIn = (LinearLayout)findViewById(R.id.layout_signin);</span>
+<span class="fc" id="L31">        userName = (EditText) findViewById(R.id.UserName);</span>
+<span class="fc" id="L32">        password = (EditText) findViewById(R.id.password);</span>
+<span class="fc" id="L33">        result = (TextView) findViewById(R.id.result_signin);</span>
+
+<span class="fc" id="L35">        signIn.setOnClickListener(new View.OnClickListener() {</span>
+            @Override
+            public void onClick(View v) {
+<span class="fc" id="L38">                String useNam = userName.getText().toString();</span>
+<span class="fc" id="L39">                String passWrd = password.getText().toString();</span>
+<span class="fc" id="L40">                UserCredentials userCredentials = new UserCredentials();</span>
+<span class="fc bfc" id="L41" title="All 2 branches covered.">                if (userCredentials.validCredentials(useNam,passWrd))</span>
+                {
+<span class="fc" id="L43">                    result.setText(&quot;Sign In Successful&quot;);</span>
+<span class="fc" id="L44">                    Toast.makeText(getApplicationContext(),&quot;Login Successful&quot;,Toast.LENGTH_LONG).show();</span>
+                }
+                else
+                {
+<span class="fc" id="L48">                    result.setText(&quot;Sign In Unsuccessful&quot;);</span>
+<span class="fc" id="L49">                    Toast.makeText(getApplicationContext(),&quot;Please enter the valid Credentials !!&quot;,Toast.LENGTH_LONG).show();</span>
+                }
+<span class="fc" id="L51">            }</span>
+        });
+<span class="fc" id="L53">    }</span>
+
+
+    protected void onStop()
+    {
+<span class="fc" id="L58">        Log.d(&quot;StorageSt&quot;, Environment.getExternalStorageState());</span>
+<span class="fc" id="L59">    String coverageFilePath = Environment.getExternalStorageDirectory() + File.separator+ &quot;Coverage.exec&quot;;</span>
+<span class="fc" id="L60">    File coverageFile = new File(coverageFilePath);</span>
+<span class="fc" id="L61">    super.onStop();</span>
+<span class="pc bpc" id="L62" title="1 of 2 branches missed.">    if(BuildConfig.DEBUG)</span>
+    {
+    try{
+<span class="fc" id="L65">        Class&lt;?&gt; emmaRTClass = Class.forName(&quot;com.vladium.emma.rt.RT&quot;);</span>
+<span class="fc" id="L66">        Method dumpCoverageMethod = emmaRTClass.getMethod(&quot;dumpCoverageData&quot;,coverageFile.getClass(),boolean.class,boolean.class);</span>
+<span class="fc" id="L67">        dumpCoverageMethod.invoke(null, coverageFile,true,false);</span>
+        }
+<span class="nc" id="L69">        catch (Exception e) {</span>
+
+<span class="fc" id="L71">        }</span>
+    }
+<span class="fc" id="L73">    }</span>
+
+
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.eclemma.org/jacoco">JaCoCo</a> 0.7.7.201606060606</span></div></body></html>

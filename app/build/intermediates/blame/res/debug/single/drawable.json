@@ -1,0 +1,954 @@
+[
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loginbackground.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\loginbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterylogo2.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterylogo2.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ticketthumbnail4.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\ticketthumbnail4.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\singinicon.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\singinicon.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundpattern.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\backgroundpattern.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cartsicon.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\cartsicon.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background2.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\background2.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ticketwithoutscratch.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\ticketwithoutscratch.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logolottery.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\logolottery.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterylogo4.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterylogo4.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mapaddressbutton.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\mapaddressbutton.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header_home.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\header_home.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterylogo2.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterylogo2.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mapsandflagsgrey.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\mapsandflagsgrey.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heartheart.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\heartheart.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\usernameicon.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\usernameicon.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ticketthumbnail4.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\ticketthumbnail4.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\locatemapicon.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\locatemapicon.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterybefore.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterybefore.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cartsicon.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\cartsicon.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pin.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\pin.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ticketicon.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\ticketicon.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blacktransparent.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\blacktransparent.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\homeicon.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\homeicon.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ticketthumbnail2.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\ticketthumbnail2.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\homebg.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\homebg.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\purchase_btns.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\purchase_btns.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterylogo6.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterylogo6.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterylogo9.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterylogo9.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittextshape.xml",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\edittextshape.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterylogo10.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterylogo10.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\693ae51bc33215ce4eb8868cb6019f0f09c570b7\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_corner_event_item.xml",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\style_corner_event_item.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mapsandflags.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\mapsandflags.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\game_btn.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\game_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ticketthumbnail1.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\ticketthumbnail1.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_cursorcolor.xml",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\edittext_cursorcolor.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterylogo10.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterylogo10.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\store.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\store.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterylogo11.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterylogo11.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_icon.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\back_icon.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mapsandflagsgrey.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\mapsandflagsgrey.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\log_in_page.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\log_in_page.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blacktransparent.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\blacktransparent.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterylogo8.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterylogo8.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\handgreen.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\handgreen.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mapaddressbutton.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\mapaddressbutton.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\693ae51bc33215ce4eb8868cb6019f0f09c570b7\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heartheart.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\heartheart.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ticketthumbnail1.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\ticketthumbnail1.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pin.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\pin.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ticketwithcratch.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\ticketwithcratch.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_close_search.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\ic_close_search.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\retailer_btn.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\retailer_btn.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_arrow_image.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\new_arrow_image.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\passwordicon.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\passwordicon.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterylogo5.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterylogo5.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\footerbackground.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\footerbackground.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splashscreen.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\splashscreen.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterylogo4.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterylogo4.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ticketthumbnail6.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\ticketthumbnail6.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_icon.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\f31e405bb7699c4c2dfebd2bafd26eecc68600f5\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\f31e405bb7699c4c2dfebd2bafd26eecc68600f5\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterylogo3.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterylogo3.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\handgreen.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\handgreen.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backarrow1.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\backarrow1.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterylogo9.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterylogo9.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ticketthumbnail6.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\ticketthumbnail6.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\store.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\store.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\game_btn.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\game_btn.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\693ae51bc33215ce4eb8868cb6019f0f09c570b7\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\homebg.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\homebg.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mycursor.xml",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\mycursor.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cartlist.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\cartlist.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_arrow_image.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\new_arrow_image.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backarrow.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\backarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mycursor.xml",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\mycursor.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\footerbackground.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\footerbackground.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ticketthumbnail3.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\ticketthumbnail3.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_close_search.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\ic_close_search.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_bottom_line.xml",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\edittext_bottom_line.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cartlist.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\cartlist.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heartgrey.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\heartgrey.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ticketwithcratch.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\ticketwithcratch.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterylogo1.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterylogo1.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterylogo5.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterylogo5.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pricelist.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\pricelist.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\closeicon.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\closeicon.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heartgrey.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\heartgrey.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_close_icon.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\new_close_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_bottom_line.xml",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\edittext_bottom_line.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterylogo1.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterylogo1.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\infoicon.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\infoicon.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\locatemapicon.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\locatemapicon.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\f31e405bb7699c4c2dfebd2bafd26eecc68600f5\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background2.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\background2.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\log_in_page.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\log_in_page.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_corner.xml",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\style_corner_event_item.xml",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\style_corner_event_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backarrow.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\backarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ticketicon.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\ticketicon.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pricelist.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\pricelist.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterylogo7.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterylogo7.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ticketthumbnail5.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\ticketthumbnail5.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splashscreen.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\splashscreen.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dropdownshadow.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\dropdownshadow.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_search_icon.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\new_search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterylogo11.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterylogo11.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\singinicon.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\singinicon.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterylogo3.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterylogo3.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ticketthumbnail5.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\ticketthumbnail5.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterybefore.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterybefore.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\passwordicon.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\passwordicon.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backgroundpattern.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\backgroundpattern.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittextshape.xml",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\edittextshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\purchase_btns.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\purchase_btns.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_open_search.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\ic_open_search.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\retailer_btn.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\retailer_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterylogo8.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterylogo8.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumbicon.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\thumbicon.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterylogo7.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterylogo7.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header_home.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\header_home.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\693ae51bc33215ce4eb8868cb6019f0f09c570b7\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ticketthumbnail2.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\ticketthumbnail2.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_search_icon.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\new_search_icon.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backarrow1.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\backarrow1.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ticketwithoutscratch.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\ticketwithoutscratch.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_rows.xml",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\rounded_rows.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mapsandflags.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\mapsandflags.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_rows.xml",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\rounded_rows.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\usernameicon.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\usernameicon.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\693ae51bc33215ce4eb8868cb6019f0f09c570b7\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumbicon.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\thumbicon.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotteryafter.jpg",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotteryafter.jpg"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotteryafter.jpg",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotteryafter.jpg"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\customshape.xml",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\customshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\f31e405bb7699c4c2dfebd2bafd26eecc68600f5\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\infoicon.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\infoicon.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popupheader.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\popupheader.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logolottery.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\logolottery.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\closeicon.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\closeicon.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loginbackground.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\loginbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_corner.xml",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popupheader.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\popupheader.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_corners.xml",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\rounded_corners.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\customshape.xml",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\customshape.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new_close_icon.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\new_close_icon.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_open_search.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\ic_open_search.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\homeicon.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\homeicon.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_corners.xml",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\rounded_corners.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_cursorcolor.xml",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\edittext_cursorcolor.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ticketthumbnail3.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\ticketthumbnail3.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lotterylogo6.png",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\lotterylogo6.png"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_rectangle.xml",
+        "source": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\custom_rectangle.xml"
+    },
+    {
+        "merged": "G:\\Backup\\Preetika\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\105555\\.android\\build-cache\\d54bec754bdc15c6695a5ae9510b22f542bb7537\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_rectangle.xml",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\custom_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dropdownshadow.png",
+        "source": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\src\\main\\res\\drawable\\dropdownshadow.png"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\f31e405bb7699c4c2dfebd2bafd26eecc68600f5\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\104919\\Documents\\VisualStudio2013\\Projects\\17Oct2017\\UnitTestingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\104919\\.android\\build-cache\\11dee4180431d437d52ae46607846884a2cc58d8\\output\\res\\drawable\\abc_edit_text_material.xml"
+    }
+]

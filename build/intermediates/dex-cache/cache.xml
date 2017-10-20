@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\104919\Documents\VisualStudio2013\Projects\17Oct2017\UnitTestingDemo\app\build\intermediates\jacoco\jacocoagent.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fdca30f45b60c6ba724c26a9ce127975e26d4bcb">
+        <dex dex="C:\Users\104919\Documents\VisualStudio2013\Projects\17Oct2017\UnitTestingDemo\app\build\intermediates\pre-dexed\debug\jacocoagent_3e3a1409c771165ec3af7e81559d809d43aee17c.jar" />
+    </item>
+
+</items>
